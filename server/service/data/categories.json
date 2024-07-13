@@ -1,0 +1,32 @@
+{
+  "RECORDS": [
+    {
+      "categories_id": "15",
+      "categories_name": "css"
+    },
+    {
+      "categories_id": "12",
+      "categories_name": "node"
+    },
+    {
+      "categories_id": "14",
+      "categories_name": "python"
+    },
+    {
+      "categories_id": "13",
+      "categories_name": "webpack"
+    },
+    {
+      "categories_id": "11",
+      "categories_name": "前端"
+    },
+    {
+      "categories_id": "16",
+      "categories_name": "测试"
+    },
+    {
+      "categories_id": "17",
+      "categories_name": "测试2"
+    }
+  ]
+}
